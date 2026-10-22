@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing",
+      "title": "Testing Python Programs with pytest",
+      "description": "Write unit tests with pytest and use test failures to improve Python code",
+      "path": "assignments/python-testing",
+      "dueDate": "2026-10-29",
+      "attachments": [
+        {
+          "name": "Calculator Module",
+          "file": "calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Scaffold",
+          "file": "test_calculator.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
